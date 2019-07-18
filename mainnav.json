@@ -1,0 +1,76 @@
+[{
+        "name":"Electronics",
+        "children":[
+        {"name":"Mixer and Grinders"},
+        {"name":"Giesers"},
+        {"name":"Computers"},
+        {"name":"Laptops"},
+        {"name":"Microovens"}
+        
+    ]},
+      {
+        "name":"Tv & Appliences",
+        "children":[
+        {"name":"Led tvs"},
+        {"name":"UHD Tvs"},
+        {"name":"Curved TVs"},
+        {"name":"Imported"},
+        {"name":"4k resolution tvs"}
+        
+    ]},
+             {
+        "name":"Men",
+        "children":[
+        {"name":"Shirts"},
+        {"name":"Trousers"},
+        {"name":"Blasers"},
+        {"name":"T-Shirts"},
+        {"name":"Jeans"},
+        {"name":"Formals"}
+        
+    ]},
+             {
+        "name":"Women",
+        "children":[
+        {"name":"Tops"},
+        {"name":"Kurtis"},
+        {"name":"Leggings"},
+        {"name":"Sarees"},
+        {"name":"Designers"},
+        {"name":"Western"}
+        
+    ]},
+            
+             {
+        "name":"Baby & Kids",
+        "children":[
+        {"name":"Dipers"},
+        {"name":"Toys"},
+        {"name":"Teddies"},
+        {"name":"cerels"},
+        {"name":"Education"},
+        {"name":"Books"}
+        
+    ]},{
+"name": "Home & Furniture", 
+	 "children":[
+        {"name" : "Tables"},
+		{"name" : "Sofa"},
+		{"name" : "shirts"},
+		{"name" : "Jeans"}
+	]
+    },{
+    "name": "Sports,Books and More",
+        "children":[
+		{"name":"shoes"},
+		{"name":"jogging tracks"},
+		{"name":"shirts"},
+		{"name":"Jeans"}
+	]},{
+    "name":"OfferZone"}
+
+
+
+ 
+            
+    ]
